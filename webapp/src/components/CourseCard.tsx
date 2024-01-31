@@ -1,5 +1,5 @@
-import { Link } from "@tanstack/react-location";
-import { HiArrowRight } from "react-icons/hi";
+import from "@tanstack/react-location";
+import from "react-icons/hi";
 import { MdVideoCameraFront } from "react-icons/md";
 import clsx from "clsx";
 import { CourseListItem } from "../types/courses";
